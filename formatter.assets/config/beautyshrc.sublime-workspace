@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"esc",
+				"esc_html\tabc"
+			],
+			[
+				"user",
+				"user_obj\tabc"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"wp_current",
+				"wp_get_current_user\tWP Function"
+			],
+			[
+				"manage",
+				"manage_options\tWP Capability"
+			],
+			[
+				"functio",
+				"function_exists"
+			],
+			[
+				"wp_pr",
+				"wp_print_styles\tWP Function"
+			],
+			[
+				"wp_deq",
+				"wp_dequeue_style\tWP Function"
+			],
+			[
+				"wp_dash",
+				"wp_dashboard_widgets\tWP Filter Name"
+			],
+			[
+				"con",
+				"content\tabc"
+			],
+			[
+				"file",
+				"filemtime"
+			],
+			[
+				"__",
+				"__FILE__"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"apa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 425.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/quatervois/quatervois.php",
+		"/media/hitendra/New Volume/Drive F Backup/Quatervois Inc/Quatervois Clients/Mohit Ecommerce/favicon_io/site.webmanifest",
+		"/home/hitendra/Documents/server-ssh/mohitdetails.txt",
+		"/home/hitendra/Documents/MohitEcommerce/public_html/.user.ini",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/quatervois-inc/quatervois-inc.php",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/quatervois/index.php",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/quatervois-inc/includes/class-quatervois-inc-activator.php",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/quatervois/index.html",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/remove-css/remove-css.php",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/php-info-shortcode/index.php",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/php-info-shortcode/php-info-shortcode.php",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/code-styler/code-styler.php",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/code-styler/style.css",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/code-styler/editor.css",
+		"/home/hitendra/vagrant-local/www/plug-dev/public_html/wp-content/plugins/code-styler/code-styler-main.js",
+		"/home/hitendra/vagrant-local/config/config.yml",
+		"/home/hitendra/Desktop/server_ip/ip.txt",
+		"/home/hitendra/Desktop/cli.php",
+		"/media/hitendra/New Volume/Drive F Backup/WordPress Theme/betheme-update/21.4.9/betheme-premium-wordpress-theme/betheme/single.php",
+		"/media/hitendra/New Volume/Drive F Backup/WordPress Theme/betheme-update/21.4.9/betheme-premium-wordpress-theme/betheme/includes/content-post.php",
+		"/media/hitendra/New Volume/Drive F Backup/WordPress Theme/betheme-update/21.4.9/betheme-premium-wordpress-theme/betheme/includes/content-single.php",
+		"/home/hitendra/.ssh/known_hosts",
+		"/home/hitendra/snap/vlc/1397/.local/share/vlc/lua/extensions/userdata/vlsub/Joker.2019.1080p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.srt",
+		"/home/hitendra/vagrant-local/www/wordpress-one/README.md",
+		"/home/hitendra/vagrant-local/www/wordpress-one/provision/vvv-nginx-default.conf",
+		"/home/hitendra/vagrant-local/www/wordpress-one/provision/vvv-nginx.conf",
+		"/media/hitendra/002099D62099D350/laragon/www/whoischeck/export.php",
+		"/home/hitendra/Desktop/virtualbox.desktop",
+		"/home/hitendra/Downloads/poppler-0.87.0/INSTALL",
+		"/home/hitendra/Desktop/atom.desktop",
+		"/home/hitendra/.cache/.fr-CHH8hJ/poppler-0.87.0/INSTALL",
+		"/home/hitendra/vagrant-local/config/default-config.yml",
+		"/home/hitendra/vagrant-local/log/nginx/error.log",
+		"/home/hitendra/vagrant-local/log/nginx/access.log",
+		"/home/hitendra/vagrant-local/log/ubuntu-bionic-18.04-cloudimg-console.log",
+		"/home/hitendra/vagrant-local/version",
+		"/home/hitendra/vagrant-local/config/init/vvv-start.conf",
+		"/home/hitendra/vagrant-local/Vagrantfile",
+		"/media/hitendra/002099D62099D350/laragon/www/adminer/hitendra.html",
+		"/etc/apt/sources.list",
+		"/media/hitendra/002099D62099D350/laragon/www/adminer/index.php",
+		"/media/hitendra/002099D62099D350/laragon/www/adminer/test.php",
+		"/media/hitendra/WordPress/VEER Backup/VEER/desktop.ini",
+		"/home/hitendra/Downloads/XON.for.Dash.to.DOCK/DOCK Settings/Gnome Version    3.30 - 3.32.md",
+		"/home/hitendra/.themes/Mojave-dark/gnome-shell/gnome-shell.css",
+		"/home/hitendra/Downloads/XON.for.Dash.to.DOCK/FONT/INSTALL!",
+		"/home/hitendra/Downloads/XON.for.Dash.to.DOCK/BLYR Settings/README",
+		"/home/hitendra/Downloads/XON.for.Dash.to.DOCK/ICON PACK LINK",
+		"/media/hitendra/New Volume/Drive F Backup/BOB Net Banking/bob.txt",
+		"/home/hitendra/Desktop/server ip/ip.txt",
+		"/media/hitendra/New Volume/Lucifer/S3/SaveLucifer.txt",
+		"/media/hitendra/New Volume/Lucifer/S3/gh0s73r.txt.txt",
+		"/etc/environment",
+		"/home/hitendra/Downloads/user.ini",
+		"/media/hitendra/New Volume/Drive F Backup/NewNetFlix.txt",
+		"/etc/apache2/ports.conf",
+		"/etc/apache2/apache2.conf",
+		"/var/www/learn-php.test/html_data/list-function.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\nhentry"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "beautyshrc.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
